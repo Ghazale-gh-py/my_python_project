@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Luna",
+        "type": "Cat",
+        "age": 3,
+        "weight": 4.5,
+        "health_status": "Healthy"
+    }
+]
